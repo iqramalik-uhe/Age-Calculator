@@ -1,2 +1,2 @@
 # Age-Calculator
-I use streamlit in this and this calculates your age and tell you what;s your age.
+This is a simple and interactive web application built with Streamlit that allows users to calculate their current age based on their date of birth.
